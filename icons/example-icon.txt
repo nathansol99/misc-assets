@@ -1,0 +1,4 @@
+# Example Icon File
+
+This is a placeholder text file that demonstrates the repository structure.
+Replace this with actual icon files (SVG, PNG, ICO, etc.) when adding real assets.
